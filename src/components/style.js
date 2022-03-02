@@ -3,6 +3,7 @@ import Style from "styled-components";
 import { Colors } from "../style/style";
 
 const {
+    background,
     sub_background,
     header,
     color
@@ -47,7 +48,18 @@ export const Main = Style.main `
     textarea {
         width: 100%;
         height: 200px;
+        margin: 10px 0;
         resize: vertical;
-
+        border: 1px solid ${background};
+        padding: 4px;
+        border-radius: 3px;
     }
+
+    footer {
+        display: flex;
+        flex-wrap: wrap;
+        gap: .5rem 1rem;
+        margin-bottom: 5px;
+    } 
+
 `
