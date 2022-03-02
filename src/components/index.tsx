@@ -39,7 +39,6 @@ export default function ContadorCaracteres() {
                 <footer>
                     <p>Caracteres: {character}</p>
                     <p>Palavras: {words}</p>
-                    <p>Linhas: 92</p>
                 </footer>
             </section>
         </Main>

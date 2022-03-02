@@ -48,6 +48,7 @@ export const Main = Style.main `
     textarea {
         width: 100%;
         height: 200px;
+        background: ${header};
         margin: 10px 0;
         resize: vertical;
         border: 1px solid ${background};
