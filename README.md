@@ -12,6 +12,8 @@
 
 <p>Você escreve algo no campo e abaixo ele vai mostrar a quantidade de caracteres e palavras que você digitou ou copiou.</p>
 
+##
+
 ### Pré-requisitos
 
 <p> Antes de começar, você precisa ter instalado em sua máquina as seguintes ferramentas <a href='https://git-scm.com/downloads'> Git </a>, 
